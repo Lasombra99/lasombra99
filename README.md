@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ 
+ Im a men and i want to be better in programming so this start like this. 
 <!--
 **Lasombra99/lasombra99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
